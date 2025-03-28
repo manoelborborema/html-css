@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(135, 237, 203);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color: rgb(5, 134, 91);
+}
+.basico{
+    color: rgb(67, 230, 111);
+}
+.mediano{
+    color: hwb(61 12% 20%);
+}
+.avancado{
+    color: red;
+}
